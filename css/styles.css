@@ -8242,6 +8242,7 @@ textarea.form-control-lg {
 .text-muted {
   --bs-text-opacity: 1;
   color: #6c757d !important;
+  font-family: 'arial';
 }
 
 .text-black-50 {
